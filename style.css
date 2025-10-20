@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Martel+Sans:wght@600&family=Noto+Serif+Bengali:wght@787&family=Outfit:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    background-color: red;
+    color: white;
+    border: 5px solid black
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+    border: 5px solid black
+}
+
+.green {
+    background-color: green;
+    color: white;
+    border: 5px solid black
+}
+
+.black {
+    background-color: black;
+    color: white;
+    ;
+    border: 5px solid rgb(194, 131, 131)
+}
+
+
+
+
+
+.button {
+    padding: 50px;
+}
+
+.border {
+    border: 5px solid black;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 320px;
+    padding-bottom: 20px;
+
+}
+
+h2 {
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Atma", system-ui;
+    font-weight: 300;
+  font-style: normal;
+}
+
+div {
+    margin-top: 60px;
+    text-align: center;
+}
